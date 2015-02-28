@@ -1,2 +1,5 @@
 # mynote
-每月随机札记
+Hello world! <a href="http://hustfisher.github.io/mynote/"><span>2015</span></a>
+
+
+
